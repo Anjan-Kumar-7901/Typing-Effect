@@ -1,2 +1,2 @@
 # Typing-Effect
-Typing Effect Using JavaScript
+Typing Effect Animation Using JavaScript
